@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.55668b52.css",
-    "main.js": "/static/js/main.fe6673cf.js",
+    "main.css": "/static/css/main.36d77bb7.css",
+    "main.js": "/static/js/main.be6ec1c5.js",
     "static/js/787.5ea33922.chunk.js": "/static/js/787.5ea33922.chunk.js",
     "static/media/HomePageBg.jpg": "/static/media/HomePageBg.2b03711e0ac369ea86e1.jpg",
+    "static/media/self.jpg": "/static/media/self.b3b8abcb6e49f2c55d5a.jpg",
+    "static/media/strojka.jpg": "/static/media/strojka.23d9c6a10c1d7e6040e5.jpg",
+    "static/media/MiniatureWargaming.jpg": "/static/media/MiniatureWargaming.b6c911b09cabd5970b6e.jpg",
+    "static/media/WebDev.jpg": "/static/media/WebDev.0f1b3e6a7867077c9601.jpg",
+    "static/media/FinWorks.jpg": "/static/media/FinWorks.f954698a5dec553b8e01.jpg",
+    "static/media/GeoTeh2.jpg": "/static/media/GeoTeh2.e75c24404cb4f1a38734.jpg",
+    "static/media/BuildInFurniture.jpg": "/static/media/BuildInFurniture.7689757c541223b077c0.jpg",
     "index.html": "/index.html",
-    "main.55668b52.css.map": "/static/css/main.55668b52.css.map",
-    "main.fe6673cf.js.map": "/static/js/main.fe6673cf.js.map",
+    "main.36d77bb7.css.map": "/static/css/main.36d77bb7.css.map",
+    "main.be6ec1c5.js.map": "/static/js/main.be6ec1c5.js.map",
     "787.5ea33922.chunk.js.map": "/static/js/787.5ea33922.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55668b52.css",
-    "static/js/main.fe6673cf.js"
+    "static/css/main.36d77bb7.css",
+    "static/js/main.be6ec1c5.js"
   ]
 }
